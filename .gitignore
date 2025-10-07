@@ -1,0 +1,23 @@
+﻿# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# OSX/Windows
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
