@@ -39,6 +39,38 @@ It focuses on translating financial hypotheses into data-driven strategies that 
 
 ---
 
+## 📊 Research Directions
+- Multi-asset momentum and mean-reversion strategies  
+- Factor-based portfolio construction and risk attribution  
+- PnL decomposition and exposure heatmaps  
+- Stress testing under different volatility and interest rate regimes  
+- Simulation of alternative portfolio allocations and drawdown scenarios  
+
+---
+
+## 🤝 Contributing
+This repository is designed to evolve with new research and backtesting ideas.  
+Contributions are welcome via:
+- Pull requests adding new strategies, backtests, or analytics modules  
+- Reporting issues related to reproducibility or bugs  
+- Sharing datasets or improved performance metrics  
+
+---
+
+## 📜 License
+This project is released under the **MIT License** — free to use, modify, and distribute with attribution.  
+
+
+---
+
+## 🧩 Author
+**Vivek Sarma** — Quant Research & Portfolio Analytics  
+*Building systematic research pipelines and backtesting frameworks to explore factors, risks, and strategy performance.*
+
+🔗 [GitHub Profile](https://github.com/viveksarmar)
+
+---
+
 ## 🚀 Quickstart
 ```bash
 # (1) Optional: create and activate virtual env
